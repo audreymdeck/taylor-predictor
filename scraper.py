@@ -48,21 +48,27 @@ def extract_songs(setlist):
     surprise_songs = []
     for section in setlist.get("sets", {}).get("set", []):
         is_encore = section.get("encore", 0)
-        section_name = section.get("name", "")
+        section_name = section.get("name", "").lower()
+        is_surprise_section = "surprise" in section_name
         for song in section.get("song", []):
             name = song.get("name", "")
             if not name:
                 continue
-            is_surprise = "Surprise" in section_name or song.get("info", "")
-            entry = {
-                "name": name,
-                "encore": bool(is_encore),
-                "surprise": bool(is_surprise),
-                "info": song.get("info", "")
-            }
-            songs.append(entry)
-            if is_surprise:
-                surprise_songs.append(name)
+            parts = [p.strip() for p in name.replace(" + ", " / ").replace(" with ", " / ").split(" / ")]
+            for part in parts:
+                if not part:
+                    continue
+                entry = {
+                    "name": part,
+                    "encore": bool(is_encore),
+                    "surprise": is_surprise_section,
+                    "mashup": len(parts) > 1,
+                    "original_entry": name,
+                    "info": song.get("info", "")
+                }
+                songs.append(entry)
+                if is_surprise_section:
+                    surprise_songs.append(part)
     return songs, surprise_songs
 
 def main():
@@ -72,11 +78,17 @@ def main():
 
     processed = []
     all_surprise = []
+    all_surprise_standalone = []
+    all_surprise_mashup = []
 
     for s in raw:
         date = s.get("eventDate", "")
         venue = s.get("venue", {})
         songs, surprises = extract_songs(s)
+
+        standalone = [song["name"] for song in songs if song["surprise"] and not song["mashup"]]
+        mashup = [song["name"] for song in songs if song["surprise"] and song["mashup"]]
+
         processed.append({
             "date": date,
             "city": venue.get("city", {}).get("name", ""),
@@ -84,9 +96,13 @@ def main():
             "venue": venue.get("name", ""),
             "songs": songs,
             "surprise_songs": surprises,
+            "surprise_standalone": standalone,
+            "surprise_mashup": mashup,
             "show_number": 0
         })
         all_surprise.extend(surprises)
+        all_surprise_standalone.extend(standalone)
+        all_surprise_mashup.extend(mashup)
 
     processed.sort(key=lambda x: datetime.strptime(x["date"], "%d-%m-%Y") if x["date"] else datetime.min)
     for i, show in enumerate(processed):
@@ -102,15 +118,29 @@ def main():
 
     from collections import Counter
     surprise_counts = Counter(all_surprise)
+    standalone_counts = Counter(all_surprise_standalone)
+    mashup_counts = Counter(all_surprise_mashup)
+
     with open("data/surprise_songs.json", "w") as f:
         json.dump({
             "pulled_at": datetime.utcnow().isoformat(),
             "total_unique": len(surprise_counts),
-            "songs": [{"name": k, "count": v} for k, v in surprise_counts.most_common()]
+            "songs": [
+                {
+                    "name": k,
+                    "total_count": v,
+                    "standalone_count": standalone_counts.get(k, 0),
+                    "mashup_count": mashup_counts.get(k, 0)
+                }
+                for k, v in surprise_counts.most_common()
+            ]
         }, f, indent=2)
 
     print(f"Done. Saved {len(processed)} shows.")
     print(f"Unique surprise songs: {len(surprise_counts)}")
+    print("Top 10 surprise songs:")
+    for song, count in surprise_counts.most_common(10):
+        print(f"  {song}: {count} total ({standalone_counts.get(song,0)} standalone, {mashup_counts.get(song,0)} mashup)")
 
 if __name__ == "__main__":
     main()
