@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+import time
 from datetime import datetime
 
 API_KEY = os.environ.get("SETLIST_API_KEY")
@@ -14,6 +15,10 @@ TAYLOR_MBID = "20244d07-534f-4eff-b4d4-930878889970"
 def get_setlists(page=1):
     url = f"{BASE_URL}/artist/{TAYLOR_MBID}/setlists?p={page}"
     r = requests.get(url, headers=HEADERS)
+    if r.status_code == 429:
+        print("Rate limited, waiting 10 seconds...")
+        time.sleep(10)
+        r = requests.get(url, headers=HEADERS)
     r.raise_for_status()
     return r.json()
 
@@ -35,6 +40,7 @@ def fetch_all_eras_tour():
         if page * items_per_page >= total:
             break
         page += 1
+        time.sleep(2)
     return all_setlists
 
 def extract_songs(setlist):
