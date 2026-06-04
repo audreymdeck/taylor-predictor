@@ -1,0 +1,3406 @@
+{
+  "accuracy_top5": 0.1295,
+  "accuracy_top10": 0.2374,
+  "total_shows_evaluated": 139,
+  "backtest_results": [
+    {
+      "show_number": 11,
+      "date": "21-04-2023",
+      "city": "Houston",
+      "actual": [
+        "Wonderland",
+        "You're Not Sorry"
+      ],
+      "predicted_top10": [
+        "gold rush",
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 12,
+      "date": "22-04-2023",
+      "city": "Houston",
+      "actual": [
+        "A Place in This World",
+        "Today Was a Fairytale"
+      ],
+      "predicted_top10": [
+        "gold rush",
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 13,
+      "date": "23-04-2023",
+      "city": "Houston",
+      "actual": [
+        "Begin Again",
+        "Cold as You"
+      ],
+      "predicted_top10": [
+        "gold rush",
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 14,
+      "date": "28-04-2023",
+      "city": "Atlanta",
+      "actual": [
+        "The Other Side of the Door",
+        "coney island"
+      ],
+      "predicted_top10": [
+        "gold rush",
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 15,
+      "date": "29-04-2023",
+      "city": "Atlanta",
+      "actual": [
+        "High Infidelity",
+        "Gorgeous"
+      ],
+      "predicted_top10": [
+        "gold rush",
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 16,
+      "date": "30-04-2023",
+      "city": "Atlanta",
+      "actual": [
+        "I Bet You Think About Me",
+        "How You Get the Girl"
+      ],
+      "predicted_top10": [
+        "gold rush",
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 17,
+      "date": "05-05-2023",
+      "city": "Nashville",
+      "actual": [
+        "Sparks Fly",
+        "Teardrops on My Guitar"
+      ],
+      "predicted_top10": [
+        "gold rush",
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 18,
+      "date": "06-05-2023",
+      "city": "Nashville",
+      "actual": [
+        "Out of the Woods",
+        "Fifteen"
+      ],
+      "predicted_top10": [
+        "gold rush",
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 19,
+      "date": "07-05-2023",
+      "city": "Nashville",
+      "actual": [
+        "Would've, Could've, Should've",
+        "Mine"
+      ],
+      "predicted_top10": [
+        "gold rush",
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 20,
+      "date": "12-05-2023",
+      "city": "Philadelphia",
+      "actual": [
+        "gold rush",
+        "Come Back\u2026 Be Here"
+      ],
+      "predicted_top10": [
+        "gold rush",
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 21,
+      "date": "13-05-2023",
+      "city": "Philadelphia",
+      "actual": [
+        "Forever & Always",
+        "This Love"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "Hey Stephen"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 22,
+      "date": "14-05-2023",
+      "city": "Philadelphia",
+      "actual": [
+        "Hey Stephen",
+        "The Best Day"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "Hey Stephen"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 23,
+      "date": "19-05-2023",
+      "city": "Foxborough",
+      "actual": [
+        "Should've Said No",
+        "Better Man"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 24,
+      "date": "20-05-2023",
+      "city": "Foxborough",
+      "actual": [
+        "Question...?",
+        "Invisible"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 25,
+      "date": "21-05-2023",
+      "city": "Foxborough",
+      "actual": [
+        "I Think He Knows",
+        "Red"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 26,
+      "date": "26-05-2023",
+      "city": "East Rutherford",
+      "actual": [
+        "Karma (Remix)",
+        "Getaway Car",
+        "Maroon"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 27,
+      "date": "27-05-2023",
+      "city": "East Rutherford",
+      "actual": [
+        "Holy Ground",
+        "False God"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 28,
+      "date": "28-05-2023",
+      "city": "East Rutherford",
+      "actual": [
+        "Welcome to New York",
+        "Clean"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 29,
+      "date": "02-06-2023",
+      "city": "Chicago",
+      "actual": [
+        "I Wish You Would",
+        "the lakes"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 30,
+      "date": "03-06-2023",
+      "city": "Chicago",
+      "actual": [
+        "You All Over Me",
+        "I Don't Wanna Live Forever"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 31,
+      "date": "04-06-2023",
+      "city": "Chicago",
+      "actual": [
+        "Hits Different",
+        "The Moment I Knew"
+      ],
+      "predicted_top10": [
+        "The Moment I Knew",
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 32,
+      "date": "09-06-2023",
+      "city": "Detroit",
+      "actual": [
+        "Haunted",
+        "I Almost Do"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 33,
+      "date": "10-06-2023",
+      "city": "Detroit",
+      "actual": [
+        "All You Had to Do Was Stay",
+        "Breathe"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "Breathe",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 34,
+      "date": "16-06-2023",
+      "city": "Pittsburgh",
+      "actual": [
+        "Mr. Perfectly Fine",
+        "The Last Time"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 35,
+      "date": "17-06-2023",
+      "city": "Pittsburgh",
+      "actual": [
+        "seven",
+        "The Story of Us"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 36,
+      "date": "23-06-2023",
+      "city": "Minneapolis",
+      "actual": [
+        "Paper Rings",
+        "If This Was a Movie"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 37,
+      "date": "24-06-2023",
+      "city": "Minneapolis",
+      "actual": [
+        "Dear John",
+        "Daylight"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 38,
+      "date": "30-06-2023",
+      "city": "Cincinnati",
+      "actual": [
+        "I'm Only Me When I'm With You",
+        "evermore"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 39,
+      "date": "01-07-2023",
+      "city": "Cincinnati",
+      "actual": [
+        "ivy",
+        "I miss you, I'm sorry",
+        "Call It What You Want"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 40,
+      "date": "07-07-2023",
+      "city": "Kansas City",
+      "actual": [
+        "Never Grow Up",
+        "When Emma Falls in Love"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 41,
+      "date": "08-07-2023",
+      "city": "Kansas City",
+      "actual": [
+        "Last Kiss",
+        "dorothea"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 42,
+      "date": "14-07-2023",
+      "city": "Denver",
+      "actual": [
+        "Picture to Burn",
+        "Timeless"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "Picture to Burn",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 43,
+      "date": "15-07-2023",
+      "city": "Denver",
+      "actual": [
+        "Starlight",
+        "Back to December"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "Message in a Bottle"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 44,
+      "date": "22-07-2023",
+      "city": "Seattle",
+      "actual": [
+        "This Is Why We Can't Have Nice Things",
+        "Everything Has Changed"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "Message in a Bottle"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 45,
+      "date": "23-07-2023",
+      "city": "Seattle",
+      "actual": [
+        "Message in a Bottle",
+        "Tied Together With a Smile"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "Message in a Bottle"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 46,
+      "date": "28-07-2023",
+      "city": "Santa Clara",
+      "actual": [
+        "right where you left me",
+        "Castles Crumbling"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Can See You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 47,
+      "date": "29-07-2023",
+      "city": "Santa Clara",
+      "actual": [
+        "Stay Stay Stay",
+        "All of the Girls You Loved Before"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "Stay Stay Stay",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Can See You"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 48,
+      "date": "03-08-2023",
+      "city": "Inglewood",
+      "actual": [
+        "I Can See You",
+        "Maroon"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Can See You",
+        "I Look in People's Windows"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 49,
+      "date": "04-08-2023",
+      "city": "Inglewood",
+      "actual": [
+        "Our Song",
+        "You Are in Love"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 50,
+      "date": "05-08-2023",
+      "city": "Inglewood",
+      "actual": [
+        "Death by a Thousand Cuts",
+        "You're on Your Own, Kid"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 51,
+      "date": "07-08-2023",
+      "city": "Inglewood",
+      "actual": [
+        "Dress",
+        "exile"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "exile",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 52,
+      "date": "08-08-2023",
+      "city": "Inglewood",
+      "actual": [
+        "I Know Places",
+        "King of My Heart"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 53,
+      "date": "09-08-2023",
+      "city": "Inglewood",
+      "actual": [
+        "New Romantics",
+        "New Year's Day"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 54,
+      "date": "24-08-2023",
+      "city": "Mexico City",
+      "actual": [
+        "I Forgot That You Existed",
+        "Sweet Nothing"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 55,
+      "date": "25-08-2023",
+      "city": "Mexico City",
+      "actual": [
+        "Tell Me Why",
+        "Snow on the Beach"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 56,
+      "date": "26-08-2023",
+      "city": "Mexico City",
+      "actual": [
+        "Cornelia Street",
+        "You're on Your Own, Kid"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 57,
+      "date": "27-08-2023",
+      "city": "Mexico City",
+      "actual": [
+        "Afterglow",
+        "Maroon"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 58,
+      "date": "09-11-2023",
+      "city": "Buenos Aires",
+      "actual": [
+        "The Very First Night",
+        "Labyrinth"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 59,
+      "date": "11-11-2023",
+      "city": "Buenos Aires",
+      "actual": [
+        "Is It Over Now?",
+        "End Game"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 60,
+      "date": "12-11-2023",
+      "city": "Buenos Aires",
+      "actual": [
+        "Better Than Revenge",
+        "\"Slut!\""
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 61,
+      "date": "17-11-2023",
+      "city": "Rio de Janeiro",
+      "actual": [
+        "Stay Beautiful",
+        "Suburban Legends"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 62,
+      "date": "19-11-2023",
+      "city": "Rio de Janeiro",
+      "actual": [
+        "Dancing With Our Hands Tied",
+        "Bigger Than the Whole Sky"
+      ],
+      "predicted_top10": [
+        "Bigger Than the Whole Sky",
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 63,
+      "date": "20-11-2023",
+      "city": "Rio de Janeiro",
+      "actual": [
+        "ME!",
+        "So It Goes..."
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "Dear Reader"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 64,
+      "date": "24-11-2023",
+      "city": "S\u00e3o Paulo",
+      "actual": [
+        "Now That We Don't Talk",
+        "Innocent"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "Dear Reader"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 65,
+      "date": "25-11-2023",
+      "city": "S\u00e3o Paulo",
+      "actual": [
+        "Safe & Sound",
+        "Untouchable"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "Dear Reader"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 66,
+      "date": "26-11-2023",
+      "city": "S\u00e3o Paulo",
+      "actual": [
+        "Say Don't Go",
+        "it's time to go"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "Dear Reader"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 67,
+      "date": "07-02-2024",
+      "city": "Tokyo",
+      "actual": [
+        "Dear Reader",
+        "Holy Ground"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "Dear Reader"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 68,
+      "date": "08-02-2024",
+      "city": "Tokyo",
+      "actual": [
+        "Eyes Open",
+        "Electric Touch"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "The Prophecy"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 69,
+      "date": "09-02-2024",
+      "city": "Tokyo",
+      "actual": [
+        "Superman",
+        "The Outside"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "The Prophecy"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 70,
+      "date": "10-02-2024",
+      "city": "Tokyo",
+      "actual": [
+        "Come In With the Rain",
+        "You're on Your Own, Kid"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "The Prophecy"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 71,
+      "date": "16-02-2024",
+      "city": "Melbourne",
+      "actual": [
+        "Red",
+        "You're Losing Me"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "The Prophecy"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 72,
+      "date": "17-02-2024",
+      "city": "Melbourne",
+      "actual": [
+        "Getaway Car",
+        "this is me trying"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "The Prophecy"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 73,
+      "date": "18-02-2024",
+      "city": "Melbourne",
+      "actual": [
+        "Come Back\u2026 Be Here",
+        "Teardrops on My Guitar"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "The Prophecy"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 74,
+      "date": "23-02-2024",
+      "city": "Sydney",
+      "actual": [
+        "How You Get the Girl",
+        "White Horse",
+        "coney island"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "The Prophecy"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 75,
+      "date": "24-02-2024",
+      "city": "Sydney",
+      "actual": [
+        "Should've Said No",
+        "You're Not Sorry",
+        "New Year's Day",
+        "peace"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "peace",
+        "The Prophecy"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 76,
+      "date": "25-02-2024",
+      "city": "Sydney",
+      "actual": [
+        "Is It Over Now?",
+        "Haunted",
+        "exile"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 77,
+      "date": "26-02-2024",
+      "city": "Sydney",
+      "actual": [
+        "Would've, Could've, Should've",
+        "ivy",
+        "Forever & Always",
+        "Maroon"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 78,
+      "date": "02-03-2024",
+      "city": "Singapore",
+      "actual": [
+        "Mine",
+        "Starlight",
+        "I Don't Wanna Live Forever",
+        "Dress"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 79,
+      "date": "03-03-2024",
+      "city": "Singapore",
+      "actual": [
+        "long story short",
+        "The Story of Us",
+        "Clean",
+        "evermore"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 80,
+      "date": "04-03-2024",
+      "city": "Singapore",
+      "actual": [
+        "Foolish One",
+        "Tell Me Why",
+        "This Love",
+        "Call It What You Want"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 81,
+      "date": "07-03-2024",
+      "city": "Singapore",
+      "actual": [
+        "Death by a Thousand Cuts",
+        "Fifteen",
+        "You're on Your Own, Kid"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 82,
+      "date": "08-03-2024",
+      "city": "Singapore",
+      "actual": [
+        "Sparks Fly",
+        "gold rush",
+        "False God",
+        "\"Slut!\""
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 83,
+      "date": "09-03-2024",
+      "city": "Singapore",
+      "actual": [
+        "Tim McGraw",
+        "cowboy like me",
+        "mirrorball",
+        "epiphany"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 84,
+      "date": "09-05-2024",
+      "city": "Nanterre",
+      "actual": [
+        "Paris",
+        "loml"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 85,
+      "date": "10-05-2024",
+      "city": "Nanterre",
+      "actual": [
+        "Is It Over Now?",
+        "My Boy Only Breaks His Favorite Toys"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 86,
+      "date": "11-05-2024",
+      "city": "Nanterre",
+      "actual": [
+        "Hey Stephen",
+        "Maroon"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 87,
+      "date": "12-05-2024",
+      "city": "Nanterre",
+      "actual": [
+        "The Alchemy",
+        "Treacherous",
+        "Begin Again"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 88,
+      "date": "17-05-2024",
+      "city": "Solna",
+      "actual": [
+        "I Think He Knows",
+        "Gorgeous",
+        "Peter"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 89,
+      "date": "18-05-2024",
+      "city": "Solna",
+      "actual": [
+        "Guilty as Sin?",
+        "Say Don't Go",
+        "Welcome to New York",
+        "Clean"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 90,
+      "date": "19-05-2024",
+      "city": "Solna",
+      "actual": [
+        "Message in a Bottle",
+        "How You Get The Girl",
+        "New Romantics",
+        "How Did It End?"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 91,
+      "date": "24-05-2024",
+      "city": "Lisbon",
+      "actual": [
+        "Come Back\u2026Be Here",
+        "The Way I Loved You",
+        "The Other Side of the Door",
+        "Fresh Out the Slammer"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "The Way I Loved You"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 92,
+      "date": "25-05-2024",
+      "city": "Lisbon",
+      "actual": [
+        "The Tortured Poets Department",
+        "You're on Your Own, Kid"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "the last great american dynasty"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 93,
+      "date": "29-05-2024",
+      "city": "Madrid",
+      "actual": [
+        "Sparks Fly",
+        "I Look in People's Windows"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "I Look in People's Windows",
+        "This Is What You Came For",
+        "The Prophecy",
+        "the last great american dynasty"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 94,
+      "date": "30-05-2024",
+      "city": "Madrid",
+      "actual": [
+        "Our Song",
+        "Jump Then Fall",
+        "King of My Heart"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "This Is What You Came For",
+        "The Prophecy",
+        "the last great american dynasty",
+        "Change"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 95,
+      "date": "02-06-2024",
+      "city": "D\u00e9cines-Charpieu",
+      "actual": [
+        "The Prophecy",
+        "Fifteen",
+        "You're on Your Own, Kid"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "This Is What You Came For",
+        "The Prophecy",
+        "the last great american dynasty",
+        "Change"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 96,
+      "date": "03-06-2024",
+      "city": "D\u00e9cines-Charpieu",
+      "actual": [
+        "Glitch",
+        "Everything Has Changed",
+        "Chloe or Sam or Sophia or Marcus"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "This Is What You Came For",
+        "the last great american dynasty",
+        "Change",
+        "Espresso"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 97,
+      "date": "07-06-2024",
+      "city": "Edinburgh",
+      "actual": [
+        "Would've, Could've, Should've",
+        "'tis the damn season"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "This Is What You Came For",
+        "the last great american dynasty",
+        "Change",
+        "Espresso"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 98,
+      "date": "08-06-2024",
+      "city": "Edinburgh",
+      "actual": [
+        "The Bolter",
+        "All of the Girls You Loved Before",
+        "Crazier"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "The Bolter",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "This Is What You Came For",
+        "the last great american dynasty",
+        "Change",
+        "Espresso"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 99,
+      "date": "09-06-2024",
+      "city": "Edinburgh",
+      "actual": [
+        "dorothea",
+        "Haunted"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "This Is What You Came For",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 100,
+      "date": "13-06-2024",
+      "city": "Liverpool",
+      "actual": [
+        "I Can See You",
+        "Mine",
+        "Cornelia Street",
+        "Maroon"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "This Is What You Came For",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 101,
+      "date": "14-06-2024",
+      "city": "Liverpool",
+      "actual": [
+        "This Is What You Came For",
+        "gold rush",
+        "The Great War",
+        "You're Losing Me"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "This Is What You Came For",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 102,
+      "date": "15-06-2024",
+      "city": "Liverpool",
+      "actual": [
+        "no body, no crime",
+        "The Manuscript"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 103,
+      "date": "18-06-2024",
+      "city": "Cardiff",
+      "actual": [
+        "I Forgot That You Existed",
+        "This Is Why We Can't Have Nice Things",
+        "I Hate It Here",
+        "the lakes"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 104,
+      "date": "21-06-2024",
+      "city": "London",
+      "actual": [
+        "Hits Different",
+        "Death by a Thousand Cuts",
+        "The Black Dog"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 105,
+      "date": "22-06-2024",
+      "city": "London",
+      "actual": [
+        "thanK you aIMee",
+        "Castles Crumbling"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 106,
+      "date": "23-06-2024",
+      "city": "London",
+      "actual": [
+        "us.",
+        "Out of the Woods",
+        "Is It Over Now?",
+        "Clean"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 107,
+      "date": "28-06-2024",
+      "city": "Dublin",
+      "actual": [
+        "State of Grace",
+        "You're on Your Own, Kid",
+        "Sweet Nothing",
+        "hoax"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 108,
+      "date": "29-06-2024",
+      "city": "Dublin",
+      "actual": [
+        "The Albatross",
+        "This Love",
+        "Ours"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 109,
+      "date": "30-06-2024",
+      "city": "Dublin",
+      "actual": [
+        "Clara Bow",
+        "You're on Your Own, Kid"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 110,
+      "date": "04-07-2024",
+      "city": "Amsterdam",
+      "actual": [
+        "Guilty as Sin?",
+        "Untouchable",
+        "The Archer",
+        "Question...?"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 111,
+      "date": "05-07-2024",
+      "city": "Amsterdam",
+      "actual": [
+        "imgonnagetyouback",
+        "Dress",
+        "You Are in Love",
+        "cowboy like me"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 112,
+      "date": "06-07-2024",
+      "city": "Amsterdam",
+      "actual": [
+        "Sweeter Than Fiction",
+        "Holy Ground",
+        "Mary's Song (Oh My My My)",
+        "So High School",
+        "Everything Has Changed"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "So High School",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 113,
+      "date": "09-07-2024",
+      "city": "Zurich",
+      "actual": [
+        "right where you left me",
+        "Last Kiss",
+        "Sad Beautiful Tragic"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string",
+        "I Did Something Bad"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 114,
+      "date": "10-07-2024",
+      "city": "Zurich",
+      "actual": [
+        "closure",
+        "Robin",
+        "Never Grow Up"
+      ],
+      "predicted_top10": [
+        "closure",
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "Robin",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string",
+        "I Did Something Bad"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 115,
+      "date": "13-07-2024",
+      "city": "Milan",
+      "actual": [
+        "the 1",
+        "Wonderland",
+        "I Almost Do",
+        "The Moment I Knew"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 116,
+      "date": "14-07-2024",
+      "city": "Milan",
+      "actual": [
+        "Mr. Perfectly Fine",
+        "Red",
+        "Getaway Car"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 117,
+      "date": "17-07-2024",
+      "city": "Gelsenkirchen",
+      "actual": [
+        "Superstar",
+        "invisible string",
+        "\"Slut!\"",
+        "False God"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "invisible string",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 118,
+      "date": "18-07-2024",
+      "city": "Gelsenkirchen",
+      "actual": [
+        "Speak Now",
+        "Hey Stephen",
+        "this is me trying",
+        "Labyrinth"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Don't You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 119,
+      "date": "19-07-2024",
+      "city": "Gelsenkirchen",
+      "actual": [
+        "Paper Rings",
+        "Stay Stay Stay",
+        "it's time to go",
+        "Better Man"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Don't You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 120,
+      "date": "23-07-2024",
+      "city": "Hamburg",
+      "actual": [
+        "Teardrops on My Guitar",
+        "The Last Time",
+        "We Were Happy",
+        "happiness"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Don't You"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 121,
+      "date": "24-07-2024",
+      "city": "Hamburg",
+      "actual": [
+        "the last great american dynasty",
+        "Run",
+        "Nothing New",
+        "Dear Reader"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "the last great american dynasty",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Don't You"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 122,
+      "date": "27-07-2024",
+      "city": "Munich",
+      "actual": [
+        "Fresh Out the Slammer",
+        "You Are in Love",
+        "ivy",
+        "Call It What You Want"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Don't You",
+        "Thinking Out Loud"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 123,
+      "date": "28-07-2024",
+      "city": "Munich",
+      "actual": [
+        "I Don't Wanna Live Forever",
+        "imgonnagetyouback",
+        "loml",
+        "Don't You"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Don't You",
+        "Thinking Out Loud"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 124,
+      "date": "01-08-2024",
+      "city": "Warsaw",
+      "actual": [
+        "mirrorball",
+        "Clara Bow",
+        "Suburban Legends",
+        "New Year's Day"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Thinking Out Loud",
+        "Long Live"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 125,
+      "date": "02-08-2024",
+      "city": "Warsaw",
+      "actual": [
+        "I Can Fix Him (No Really I Can)",
+        "I Can See You",
+        "Red",
+        "Maroon"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Thinking Out Loud",
+        "Long Live"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 126,
+      "date": "03-08-2024",
+      "city": "Warsaw",
+      "actual": [
+        "Today Was a Fairytale",
+        "I Think He Knows",
+        "The Black Dog",
+        "exile"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Thinking Out Loud",
+        "Long Live"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 127,
+      "date": "15-08-2024",
+      "city": "London",
+      "actual": [
+        "Everything Has Changed",
+        "End Game",
+        "Thinking Out Loud",
+        "King of My Heart",
+        "The Alchemy"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Thinking Out Loud",
+        "Long Live"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 128,
+      "date": "16-08-2024",
+      "city": "London",
+      "actual": [
+        "London Boy",
+        "Dear John",
+        "Sad Beautiful Tragic"
+      ],
+      "predicted_top10": [
+        "London Boy",
+        "I Love You, I'm Sorry",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Long Live",
+        "The Lucky One"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 129,
+      "date": "17-08-2024",
+      "city": "London",
+      "actual": [
+        "I Did Something Bad",
+        "My Boy Only Breaks His Favorite Toys",
+        "coney island"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "I Did Something Bad",
+        "So Long, London",
+        "Please Please Please",
+        "Long Live",
+        "The Lucky One",
+        "Mean"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 130,
+      "date": "19-08-2024",
+      "city": "London",
+      "actual": [
+        "Long Live",
+        "Change",
+        "The Archer",
+        "You're on Your Own, Kid"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Change",
+        "Espresso",
+        "Cassandra",
+        "So Long, London",
+        "Please Please Please",
+        "Long Live",
+        "The Lucky One",
+        "Mean",
+        "mad woman"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 131,
+      "date": "20-08-2024",
+      "city": "London",
+      "actual": [
+        "Death by a Thousand Cuts",
+        "So Long, London"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Espresso",
+        "Cassandra",
+        "So Long, London",
+        "Please Please Please",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "Cold as You"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 132,
+      "date": "18-10-2024",
+      "city": "Miami Gardens",
+      "actual": [
+        "Tim McGraw",
+        "Timeless",
+        "this is me trying",
+        "Daylight"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Espresso",
+        "Cassandra",
+        "Please Please Please",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "Cold as You",
+        "High Infidelity"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 133,
+      "date": "19-10-2024",
+      "city": "Miami Gardens",
+      "actual": [
+        "Should've Said No",
+        "I Did Something Bad",
+        "loml",
+        "White Horse"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Espresso",
+        "Cassandra",
+        "Please Please Please",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "Cold as You",
+        "High Infidelity"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 134,
+      "date": "20-10-2024",
+      "city": "Miami Gardens",
+      "actual": [
+        "Out of the Woods",
+        "All You Had to Do Was Stay",
+        "mirrorball",
+        "Guilty as Sin?"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Espresso",
+        "Cassandra",
+        "Please Please Please",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "Cold as You",
+        "High Infidelity"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 135,
+      "date": "25-10-2024",
+      "city": "New Orleans",
+      "actual": [
+        "Our Song",
+        "Call It What You Want",
+        "The Black Dog",
+        "Haunted"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Espresso",
+        "Cassandra",
+        "Please Please Please",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "Cold as You",
+        "High Infidelity"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 136,
+      "date": "26-10-2024",
+      "city": "New Orleans",
+      "actual": [
+        "Espresso",
+        "Is It Over Now?",
+        "Please Please Please",
+        "Hits Different",
+        "Welcome to New York"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Espresso",
+        "Cassandra",
+        "Please Please Please",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "Cold as You",
+        "High Infidelity"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 137,
+      "date": "27-10-2024",
+      "city": "New Orleans",
+      "actual": [
+        "Afterglow",
+        "Dress",
+        "How You Get the Girl",
+        "Clean"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Cassandra",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "Cold as You",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 138,
+      "date": "01-11-2024",
+      "city": "Indianapolis",
+      "actual": [
+        "The Albatross",
+        "Holy Ground",
+        "Cold as You",
+        "exile"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Cassandra",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "Cold as You",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 139,
+      "date": "02-11-2024",
+      "city": "Indianapolis",
+      "actual": [
+        "The Prophecy",
+        "This Love",
+        "Maroon",
+        "cowboy like me"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Cassandra",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day",
+        "Invisible"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 140,
+      "date": "03-11-2024",
+      "city": "Indianapolis",
+      "actual": [
+        "Cornelia Street",
+        "The Bolter",
+        "Death by a Thousand Cuts"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Cassandra",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day",
+        "Invisible"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 141,
+      "date": "14-11-2024",
+      "city": "Toronto",
+      "actual": [
+        "My Boy Only Breaks His Favorite Toys",
+        "This Is Why We Can't Have Nice Things",
+        "False God",
+        "'tis the damn season"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Cassandra",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day",
+        "Invisible"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 142,
+      "date": "15-11-2024",
+      "city": "Toronto",
+      "actual": [
+        "I Don't Wanna Live Forever",
+        "Mine",
+        "evermore",
+        "Peter"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Cassandra",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day",
+        "Invisible"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 143,
+      "date": "16-11-2024",
+      "city": "Toronto",
+      "actual": [
+        "us.",
+        "Out of the Woods",
+        "You're on Your Own, Kid",
+        "long story short"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Cassandra",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day",
+        "Invisible"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 144,
+      "date": "21-11-2024",
+      "city": "Toronto",
+      "actual": [
+        "Mr. Perfectly Fine",
+        "Better Than Revenge",
+        "State of Grace",
+        "Labyrinth"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Cassandra",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day",
+        "Invisible"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 145,
+      "date": "22-11-2024",
+      "city": "Toronto",
+      "actual": [
+        "Ours",
+        "the last great american dynasty",
+        "Cassandra",
+        "mad woman",
+        "I Did Something Bad"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "Cassandra",
+        "The Lucky One",
+        "Mean",
+        "mad woman",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day",
+        "Invisible"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 146,
+      "date": "23-11-2024",
+      "city": "Toronto",
+      "actual": [
+        "Sparks Fly",
+        "Message in a Bottle",
+        "You're Losing Me",
+        "How Did It End?"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "The Lucky One",
+        "Mean",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day",
+        "Invisible",
+        "Karma (Remix)",
+        "I Wish You Would"
+      ],
+      "hit_top5": false,
+      "hit_top10": false
+    },
+    {
+      "show_number": 147,
+      "date": "06-12-2024",
+      "city": "Vancouver",
+      "actual": [
+        "Haunted",
+        "Wonderland",
+        "Never Grow Up",
+        "The Best Day"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "The Lucky One",
+        "Mean",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "The Best Day",
+        "Invisible",
+        "Karma (Remix)",
+        "I Wish You Would"
+      ],
+      "hit_top5": false,
+      "hit_top10": true
+    },
+    {
+      "show_number": 148,
+      "date": "07-12-2024",
+      "city": "Vancouver",
+      "actual": [
+        "I Love You, I'm Sorry",
+        "Last Kiss",
+        "The Tortured Poets Department",
+        "Maroon"
+      ],
+      "predicted_top10": [
+        "I Love You, I'm Sorry",
+        "The Lucky One",
+        "Mean",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "Invisible",
+        "Karma (Remix)",
+        "I Wish You Would",
+        "You All Over Me"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    },
+    {
+      "show_number": 149,
+      "date": "08-12-2024",
+      "city": "Vancouver",
+      "actual": [
+        "A Place in This World",
+        "New Romantics",
+        "Long Live",
+        "New Year's Day",
+        "The Manuscript"
+      ],
+      "predicted_top10": [
+        "The Lucky One",
+        "Mean",
+        "A Place in This World",
+        "High Infidelity",
+        "I Bet You Think About Me",
+        "Invisible",
+        "Karma (Remix)",
+        "I Wish You Would",
+        "You All Over Me",
+        "Breathe"
+      ],
+      "hit_top5": true,
+      "hit_top10": true
+    }
+  ],
+  "most_overdue": [
+    {
+      "name": "The Lucky One",
+      "score": 0.6718
+    },
+    {
+      "name": "Mean",
+      "score": 0.6597
+    },
+    {
+      "name": "High Infidelity",
+      "score": 0.6396
+    },
+    {
+      "name": "I Bet You Think About Me",
+      "score": 0.6356
+    },
+    {
+      "name": "Invisible",
+      "score": 0.6034
+    },
+    {
+      "name": "Karma (Remix)",
+      "score": 0.5953
+    },
+    {
+      "name": "I Wish You Would",
+      "score": 0.5832
+    },
+    {
+      "name": "You All Over Me",
+      "score": 0.5792
+    },
+    {
+      "name": "Breathe",
+      "score": 0.5671
+    },
+    {
+      "name": "seven",
+      "score": 0.5591
+    },
+    {
+      "name": "If This Was a Movie",
+      "score": 0.555
+    },
+    {
+      "name": "I'm Only Me When I'm With You",
+      "score": 0.547
+    },
+    {
+      "name": "I miss you, I'm sorry",
+      "score": 0.543
+    },
+    {
+      "name": "When Emma Falls in Love",
+      "score": 0.5389
+    },
+    {
+      "name": "Picture to Burn",
+      "score": 0.5309
+    },
+    {
+      "name": "Back to December",
+      "score": 0.5268
+    },
+    {
+      "name": "Tied Together With a Smile",
+      "score": 0.5188
+    },
+    {
+      "name": "peace",
+      "score": 0.498
+    },
+    {
+      "name": "I Know Places",
+      "score": 0.4906
+    },
+    {
+      "name": "Foolish One",
+      "score": 0.4779
+    }
+  ]
+}
